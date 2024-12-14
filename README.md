@@ -10,7 +10,7 @@ I **love** finding out more about creative coding
 
 Disclaimer: No copyright infringement intended, photos and files belong to the rightful owners.
 
-#skills learnt
+# skills learnt
 -index creation
 -GIT commands
 -links and boilerparts
